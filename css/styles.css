@@ -104,15 +104,15 @@ a:hover{
 	border:1px solid #66BFBF;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
-	font-family: 'Merriweather', sans-serif;
-	font-size:17px;
+	color: #FFFFFF;
+	font-family: 'Merriweather', serif;
+	font-size:1rem;
 	padding:16px 31px;
 	text-decoration:none;
-	text-shadow:0 1px 0 #2f6627;
+	/*text-shadow:0 1px 0 #2f6627;*/
 }
 .btn:hover {
-	background-color:#00bcd4;
+	background-color: #679b9b;
 }
 .btn:active {
 	position:relative;
